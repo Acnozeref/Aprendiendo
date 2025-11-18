@@ -1,2 +1,2 @@
 # Aprendiendo
-Repertorio personal para empezar a programar, pero primero con la estructura HTML, CSS y después a programar con JS o Python.
+Repertorio personal para aprender a programar desde 0 con el metodo 80/20 en Python.
